@@ -1,3 +1,3 @@
-module somemodule
+module GoTest
 
 go 1.19
